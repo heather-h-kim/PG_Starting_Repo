@@ -10,3 +10,7 @@ body{
 input {
     background-color: purple;
 }
+
+h1 {
+    color: lightcoral;
+}
